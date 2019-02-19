@@ -1,0 +1,12 @@
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Release\netcoreapp2.0\MVCManukauTech.deps.json
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Release\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Release\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Release\netcoreapp2.0\MVCManukauTech.dll
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Release\netcoreapp2.0\MVCManukauTech.pdb
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Release\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Release\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Release\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Release\netcoreapp2.0\MVCManukauTech.dll
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Release\netcoreapp2.0\MVCManukauTech.pdb
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Release\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
