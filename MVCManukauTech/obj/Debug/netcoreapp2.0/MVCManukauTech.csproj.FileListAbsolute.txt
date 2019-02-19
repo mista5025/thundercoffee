@@ -1,0 +1,96 @@
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_CoreMigration_With_Checkout_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\MIT\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\MIT\Q3\Full Stack\Project\Final\Project_Lawrence\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
