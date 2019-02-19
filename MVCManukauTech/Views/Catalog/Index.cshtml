@@ -1,0 +1,122 @@
+﻿@model IEnumerable<MVCManukauTech.ViewModels.CatalogViewModel>
+@{
+    //Are we showing all the products or only one category?
+    if (ViewBag.CategoryName == null)
+    {
+        ViewBag.Title = "Coffee";
+    }
+    else
+    {
+        ViewBag.Title = "Coffee - " + ViewBag.CategoryName;
+    }
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+@*//20180911 LJB Add Search box*@
+<form id="searchForm" action="/Products/Index" method="get" autocomplete="off">
+    <p>
+        Search Coffees:
+        <div>
+            <input type="text" id="searchString" name="searchString"
+                   autocomplete="off" onkeyup="XAjaxRequest(this.value);"
+                   style="width: 180px" />
+            <input type="submit" value="Find" />
+            <br />
+            <div id="autoSuggestContainer" style="position:absolute;display:none;z-index:100;">
+                @*<textarea id="xResponse"></textarea>*@
+
+            </div>
+        </div>
+
+    </p>
+</form>
+
+@*// 20180905 LJB Modify by bootstrap*@
+@foreach (var item in Model)
+{
+
+    <div>
+        <div class="col-lg-4 col-md-4 col-sm-6">
+            <div>
+                <a href="~/Catalog/Details?ProductId=@item.ProductId">
+                    <img src="~/Images/Products/@item.ImageFileName" style="width:300px" />
+                </a>
+            </div>
+            <div>
+                <center><h4>@item.Name<br></h4></center>
+                <center>
+                    <h4>
+                        <b>$@item.UnitCost</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="~/OrderDetails/ShoppingCart?ProductId=@item.ProductId" button="button" class="btn btn-success">Add&nbsp;to&nbsp;Cart</a>
+                    </h4>
+                </center>
+
+            </div>
+        </div>
+    </div>
+
+}
+
+<br />
+<br />
+@* //20180910 LJB Adding buttons to navigate to previous and next set of 6 products *@
+<div class="text-center">
+    <div class="btn-group">
+        <a class="btn btn-default" href="~/catalog/index?page=0">1</a>
+        <a class="btn btn-default" href="~/catalog/index?page=1">2</a>
+        <a class="btn btn-default" href="~/catalog/index?page=2">3</a>
+    </div>
+</div>
+
+<!--
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Image
+        </th>
+        <th>
+            Unit Cost
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Category
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                <img src="~/Images/Products/@item.ImageFileName" style="width:100px" />
+            </td>
+            <td style="text-align: right">
+                @item.UnitCost
+            </td>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                @item.CategoryName
+            </td>
+            <td>
+                <a href="~/OrderDetails/ShoppingCart?ProductId=@item.ProductId"><button>Add&nbsp;to&nbsp;Cart</button></a>
+            </td>
+            <td>
+                <a href="~/Catalog/Details?ProductId=@item.ProductId"><button>Details</button></a>
+            </td>
+        </tr>
+    }
+
+</table>
+    -->

@@ -1,0 +1,202 @@
+﻿@model MVCManukauTech.ViewModels.CheckoutViewModel
+
+@{
+    ViewBag.Title = "Check Out";
+}
+
+
+<h2>Check Out</h2>
+
+@*<script type="text/javascript">
+    function XTest() {
+        document.getElementById("CustomerName").value = "Mr Tester";
+        document.getElementById("AddressStreet").value = "555 Imaginary Rd";
+        document.getElementById("Location").value = "Henderson";
+        document.getElementById("Country").value = "New Zealand";
+        document.getElementById("PostCode").value = "0612";
+        document.getElementById("CardOwner").value = "Mr Tester";
+        document.getElementById("CardType").value = "Visa";
+        document.getElementById("CardNumber").value = "1111";
+        document.getElementById("CSC").value = "111";
+    }
+</script>*@
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Check Out</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            <label for="CustomerName" class="control-label col-md-2" style="display:inline">Customer Name:</label>
+            <div class="col-md-10">
+                <input type="text" id="CustomerName" name="CustomerName" value="@Model.CustomerName" style="display:inline" />
+                @*<input type="button" value="Test Data" onclick="XTest();" class="btn" style="display:inline" />*@
+                @Html.ValidationMessageFor(model => model.CustomerName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="AddressStreet" class="control-label col-md-2">Street Address:</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.AddressStreet)
+                @Html.ValidationMessageFor(model => model.AddressStreet)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Location" class="control-label col-md-2">City or Location:</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Location)
+                @Html.ValidationMessageFor(model => model.Location)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Country" class="control-label col-md-2">Country:</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Country)
+                @Html.ValidationMessageFor(model => model.Country)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="PostCode" class="control-label col-md-2">Post Code:</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PostCode)
+                @Html.ValidationMessageFor(model => model.PostCode)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="CardOwner" class="control-label col-md-2">Card Owner:</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CardOwner)
+                @Html.ValidationMessageFor(model => model.CardOwner)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="CardType" class="control-label col-md-2">Card Type:</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CardType)
+                @Html.ValidationMessageFor(model => model.CardType)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="CardNumber" class="control-label col-md-2">Card Number:</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CardNumber)
+                @Html.ValidationMessageFor(model => model.CardNumber)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="CSC" class="control-label col-md-2">CSC:</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CSC)
+                @Html.ValidationMessageFor(model => model.CSC)
+            </div>
+        </div>
+
+
+        @*<div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Submit" class="btn btn-default" />
+                </div>
+            </div>*@
+        <input id="SubmitCart" type="submit" value="Submit" class="btn btn-default" style="display:none" />
+    </div>
+
+
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://www.paypalobjects.com/api/checkout.js"></script>
+    </head>
+
+    @* //20180907 LJB Setting up the Paypal Cart which gets rid of the bank of fiction
+       //Display Total Amount due for the customer*@
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+
+            Grand Total: <b>$@ViewData["GrandTotal"].ToString()</b>
+            
+            <div id="paypal-button">
+            </div>
+        </div>
+    </div>
+}
+<body>
+
+    <script type="text/javascript">
+        //Disable Fraudulant Payments
+        //ref :// https://stackoverflow.com/questions/737022/how-do-i-disable-right-click-on-my-web-page
+        document.addEventListener('contextmenu', event => event.preventDefault());
+
+        //Paypal
+        //Get Total Cost
+        var grandTotal = @ViewData["GrandTotal"];
+        var home = new URL("https://developer.mozilla.org", home)
+
+        //Alert(grandTotal);
+
+        paypal.Button.render({
+
+            env: 'sandbox', // Or 'sandbox'
+
+            client: {
+                sandbox: 'AbJjFSJemOKiJLg46PRQcB4F0ycR6DiHZ0IfRILhd67axsz7sH7-H8_rj-Po3wm8AdfGI4HUKseXCG1i',
+                production: ''
+            },
+
+            commit: true,
+
+            style: {
+                label: 'buynow',
+                fundingicons: true,
+                branding: true,
+                size: 'small',
+                shape: 'rect',
+                color: 'gold'
+            },
+            payment: function (data, actions) {
+                alert(11);
+
+                return actions.payment.create({
+
+                    payment: {
+                        transactions: [
+                            {
+                                amount: { total: grandTotal, currency: 'NZD' }
+                            }
+                        ]
+                    }
+                });
+            },
+
+            onAuthorize: function (data, actions) {
+                return actions.payment.execute().then(function (payment) {
+                    // btn.click();
+                    document.getElementById("SubmitCart").click();
+                //window.alert("Payment was Successful");
+
+            });
+            }
+
+        }, '#paypal-button');
+    </script>
+
+</body>
+
+@* //20180907 LJB Navigating back to the shopping cart *@
+<div>
+    @Html.ActionLink("Back to your Order", "ShoppingCart")
+</div>
+
